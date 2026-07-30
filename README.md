@@ -7,7 +7,7 @@ I build embedded systems, robotics, and AI agent tooling, mostly at hackathons.
 ### Projects
 
 - **[Accordion](https://github.com/a-Fig/Accordion)** — context-window manager for AI coding agents. Won its hackathon at UC Berkeley; later shipped [PR #96](https://github.com/a-Fig/Accordion/pull/96), adding system-prompt tracking to the token budget.
-- **[fantastic-octo-enigma](https://github.com/shahxsheel/fantastic-octo-enigma)** — real-time driver drowsiness detection on a Raspberry Pi (YOLO + MediaPipe), built solo. Also the research work behind an Infineon-partnered internship (selected from 300+ applicants into a 5-person cohort).
+- **[ARGUS](https://github.com/aaronhma/infineon)** — driver-safety research system built by a 5-person team for an Infineon-partnered internship, selected from 300+ De Anza CS students and the only team invited to present at STEM Zone 2026. Contributed gyroscope sensor integration to the driver-monitoring pipeline (my individual prototype for this work lives at [fantastic-octo-enigma](https://github.com/shahxsheel/fantastic-octo-enigma), solo-built, 16/16 commits).
 - **[cura](https://github.com/shahxsheel/cura)** — robotic feeding assistant controlling a Piper arm over CAN bus. Built macOS support for the arm's CAN stack from scratch. 17 of 19 commits.
 - **[Clear-Dispatch](https://github.com/aadityad12/Clear-Dispatch)** — multi-agent 911 dispatch tool for wildfire surge events. Built the frontend dashboard and live voice-AI demo. 24 of 46 commits.
 - **[Temper](https://github.com/shahxsheel/Temper)** — eval and auto-remediation tool for AI agent harnesses. Built the live dashboard and deployment pipeline.
@@ -43,6 +43,10 @@ I build embedded systems, robotics, and AI agent tooling, mostly at hackathons.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 Also working with: YOLO/ncnn, MediaPipe, ZeroMQ, Infineon ModusToolbox (embedded firmware)
+
+**Domains**
+
+`AI Agents` `LLM Tooling` `Multi-Agent Systems` `Computer Vision` `Embedded Systems` `Robotics` `Real-Time Systems` `Edge AI` `CAN Bus` `Voice AI` `Mesh Networking`
 
 ### Contact
 
